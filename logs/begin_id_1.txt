@@ -1,1 +1,42 @@
-run time: 0 seconds
+id:492 followers: 1240
+id:973 followers: 1376
+id:937 followers: 1399
+id:1307 followers: 1421
+id:9 followers: 1452
+id:553 followers: 1567
+id:896 followers: 2091
+id:209 followers: 2203
+id:700 followers: 2221
+id:402 followers: 2245
+id:1078 followers: 2453
+id:948 followers: 2823
+id:197 followers: 3086
+id:24 followers: 3369
+id:155 followers: 4250
+id:1578 followers: 4357
+id:925 followers: 4476
+id:37 followers: 4593
+id:1978 followers: 5067
+id:68 followers: 5637
+id:20 followers: 6176
+id:629 followers: 6924
+id:1 followers: 6949
+id:704 followers: 7610
+id:97 followers: 9422
+id:899 followers: 9557
+id:843 followers: 11460
+id:1743 followers: 12026
+id:1348 followers: 14383
+id:1101 followers: 39961
+id:16 followers: 41513
+id:1417 followers: 56160
+id:109 followers: 58837
+id:395 followers: 65300
+id:75 followers: 71703
+id:159 followers: 91383
+id:608 followers: 135041
+id:2 followers: 159882
+id:79 followers: 169487
+id:1492 followers: 378710
+spider has runned 37 seconds
+end id [200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000]
